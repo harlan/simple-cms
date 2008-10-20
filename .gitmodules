@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/smartguard"]
+	path = vendor/plugins/smartguard
+	url = http://dev.smartleaf.com/permissioning/plugin/.git
